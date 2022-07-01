@@ -99,9 +99,7 @@ I just pressed enter, so no private keys were decrypted):
 * [select all] the project should be in the list, make sure its selected
 * [finish] and wait another few seconds until import is complete
 
-## How to buy me a beer
 
-If you are feeling generous you could send some change to 
 
 
 
