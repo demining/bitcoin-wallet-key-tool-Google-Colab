@@ -101,5 +101,15 @@ I just pressed enter, so no private keys were decrypted):
 
 ## How to buy me a beer
 
-If you are feeling generous you could send some change to 13MAejQp1193VPdUFexTh6vxD7DuzBVRJW
+If you are feeling generous you could send some change to 
+
+
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
+
 
